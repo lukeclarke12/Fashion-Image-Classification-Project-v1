@@ -11,3 +11,5 @@ Skirt  - 4,
 Shorts - 5
 
 The resulting algorithm can predict with an accuracy score between 60% - 80% across classes with images that have little noise. This algorithm is a quick first attempt for a larger project.
+
+If you clone the repository you can test out the app yourself locally using streamlit using the command streamlit run app.py provided you have the correct requirements installed in your environment.
